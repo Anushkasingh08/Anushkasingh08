@@ -51,9 +51,7 @@
 ### 🎯 Competitive Programming Profiles  
 <p align="left">
   <a href="https://leetcode.com/anushkasingh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/anushkasingh"><img src="https://img.shields.io/badge/CodeChef-4b2e2e?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/anushkasingh"><img src="https://img.shields.io/badge/Codeforces-2f89fc?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-</p>
+  </p>
 
 ---
 
