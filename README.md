@@ -35,7 +35,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anushkasingh08&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushkasingh08&theme=radical" alt="GitHub streak" height="165"/>
 </p>
 
 ---
